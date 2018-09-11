@@ -1,4 +1,3 @@
-# hello-world
 using System;
 
 namespace Les_3
@@ -27,5 +26,6 @@ namespace Les_3
             leeuw.Brullen();
         }
     }
+    white tigers are cool
 }
 
